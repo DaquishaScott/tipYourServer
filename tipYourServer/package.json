@@ -1,0 +1,12 @@
+{
+  "name": "tipyourserver",
+  "version": "1.0.0",
+  "description": "1. Create a directory called `node-fs-hw` in the terminal.\r 2. Go into the `node-fs-hw` directory.\r 3. In the terminal, create a file named `server.js` using the `touch` command.\r 4. In the terminal, initialize a Node.js project by running the following commands:\r    - `npm init -y`\r    - `npm install`\r 5. Make sure that the `main` property in the `package.json` file is set to `server.js`.\r 6. In the `server.js` file, create a Node.js server and make it listen on port 3000.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
